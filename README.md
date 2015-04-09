@@ -1,7 +1,7 @@
-# Name:
-# Date:
+# Name: David Eliason && Evan Butler
+# Date:April 9, 2015
 
-Description:
+Description: find number of words given as input, count, and rank
 
 # SetUp and Use
 In order to use this program you will need a browser...NOT IE!
