@@ -9,7 +9,7 @@ var wordOrder = function(words){
         var word_shift = word_sort.shift();
         // debugger;
         console.log("word_shift :" + word_shift);
-        if (word_shift.indexOf(word_sort) === 1)
+        if (word_shift.indexOf(word_sort) === -1)
         {
             output_[i];
             output_[i].push(word_shift);
