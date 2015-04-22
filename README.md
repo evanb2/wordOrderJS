@@ -7,7 +7,9 @@ Description: Find number of words given as input, count, and rank. This project 
 
 SetUp
 1. Open terminal/console and type: 'git clone https://github.com/evanb2/wordOrderJS'
+
 2. Open wordOrderJS folder and open html file in your web browser.
+
 3. Follow instructions on the site.
 
 # Copyright (c) 2015 (David Eliason & Evan Butler)
