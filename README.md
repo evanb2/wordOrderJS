@@ -1,7 +1,7 @@
 # Name: David Eliason & Evan Butler
 # Date: April 9, 2015
 
-Description: Find number of words given as input, count, and rank.
+Description: Find number of words given as input, count, and rank. This project is unfinished. Need to complete logic in scripts file.
 
 # SetUp and Use
 
